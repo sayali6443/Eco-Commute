@@ -1,2 +1,4 @@
-# Eco-Commute
-GovHack Victoria 2024
+# Eco-Commute- GovHack Victoria 2024
+Eco Commute is an initiative focused on transforming urban mobility in Australia, beginning with Victoria. The project aims to develop a smart, integrated, and data-driven transport ecosystem that encourages the use of sustainable alternatives over private vehicles. By combining data analysis, behavioural insights, advanced technologies, and forward-thinking policy, Eco Commute envisions a connected cityscape where public transport, walking, cycling, and electric mobility become the primary modes of travel. This approach aligns with Victoria’s goal of achieving net-zero emissions by 2045 and supports the creation of more sustainable and liveable urban environments.
+- The Data Analysis folder contains the analytical work and predictive models developed during the competition.
+- The Links folder includes references to our Figma prototypes, Canva designs, and PPTV presentation.
